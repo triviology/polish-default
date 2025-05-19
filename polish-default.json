@@ -1,0 +1,643 @@
+{
+  "name": "Domyślny Zestaw Pytań",
+  "codename": "polish-default",
+  "url": "https://github.com/spageektti/triviology",
+  "savefile": "polish-default",
+  "type": "database",
+  "license": "Brak",
+  "description": "Baza pytań w języków polskim.",
+  "categories": [
+    {
+      "icon": "Icons.question_answer",
+      "text": "Ogólna Wiedza",
+      "id": 1
+    },
+    {
+      "icon": "Icons.science",
+      "text": "Nauka",
+      "id": 2
+    },
+    {
+      "icon": "Icons.art_track",
+      "text": "Kultura",
+      "id": 3
+    }
+  ],
+  "total_questions": "18",
+  "total_categories": "3",
+  "total_difficulty_levels": "3",
+  "language": "pl",
+  "questions_multiple": {
+    "1": {
+      "easy": [
+        {
+          "question": "Jaka jest stolica Polski?",
+          "correct_answer": "Warszawa",
+          "incorrect_answers": [
+            "Kraków",
+            "Wrocław",
+            "Gdańsk"
+          ]
+        },
+        {
+          "question": "Jakie jest największe jezioro w Polsce?",
+          "correct_answer": "Śniardwy",
+          "incorrect_answers": [
+            "Mamry",
+            "Wielki Staw",
+            "Zalew Szczeciński"
+          ]
+        },
+        {
+          "question": "Kiedy Polska przystąpiła do Unii Europejskiej?",
+          "correct_answer": "2004",
+          "incorrect_answers": [
+            "2002",
+            "1999",
+            "2010"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Które z poniższych miast leży nad Wisłą?",
+          "correct_answer": "Warszawa",
+          "incorrect_answers": [
+            "Kraków",
+            "Łódź",
+            "Poznań"
+          ]
+        },
+        {
+          "question": "Jakie miasto jest stolicą Węgier?",
+          "correct_answer": "Budapeszt",
+          "incorrect_answers": [
+            "Bratysława",
+            "Bukareszt",
+            "Praga"
+          ]
+        },
+        {
+          "question": "W którym roku Polska odzyskała niepodległość?",
+          "correct_answer": "1918",
+          "incorrect_answers": [
+            "1863",
+            "1939",
+            "1989"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Jaki kraj graniczy z Polską na wschodzie?",
+          "correct_answer": "Białoruś",
+          "incorrect_answers": [
+            "Ukraina",
+            "Rosja",
+            "Czechy"
+          ]
+        },
+        {
+          "question": "Jakie miasto było stolicą Polski przed Warszawą?",
+          "correct_answer": "Kraków",
+          "incorrect_answers": [
+            "Gdańsk",
+            "Lublin",
+            "Poznań"
+          ]
+        },
+        {
+          "question": "Kiedy Polska weszła do NATO?",
+          "correct_answer": "1999",
+          "incorrect_answers": [
+            "1995",
+            "2000",
+            "2004"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "easy": [
+        {
+          "question": "Ile wynosi temperatura wrzenia wody w stopniach Celsjusza?",
+          "correct_answer": "100",
+          "incorrect_answers": [
+            "90",
+            "120",
+            "80"
+          ]
+        },
+        {
+          "question": "Jak nazywa się najbliższa gwiazda Ziemi?",
+          "correct_answer": "Słońce",
+          "incorrect_answers": [
+            "Proxima Centauri",
+            "Sirius",
+            "Alpha Centauri"
+          ]
+        },
+        {
+          "question": "Co jest podstawową jednostką masy w układzie SI?",
+          "correct_answer": "Kilogram",
+          "incorrect_answers": [
+            "Gram",
+            "Tona",
+            "Litr"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Który pierwiastek chemiczny ma symbol 'O'?",
+          "correct_answer": "Tlen",
+          "incorrect_answers": [
+            "Wodór",
+            "Azot",
+            "Węgiel"
+          ]
+        },
+        {
+          "question": "Jaki gaz stanowi około 21% atmosfery ziemskiej?",
+          "correct_answer": "Tlen",
+          "incorrect_answers": [
+            "Azot",
+            "Wodór",
+            "Dwutlenek węgla"
+          ]
+        },
+        {
+          "question": "Co jest najtwardszym materiałem na Ziemi?",
+          "correct_answer": "Diament",
+          "incorrect_answers": [
+            "Węgiel",
+            "Złoto",
+            "Platyna"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Jak nazywa się proces, w którym rośliny produkują tlen?",
+          "correct_answer": "Fotosynteza",
+          "incorrect_answers": [
+            "Oddychanie komórkowe",
+            "Transpiracja",
+            "Fermentacja"
+          ]
+        },
+        {
+          "question": "Kto wynalazł teorię względności?",
+          "correct_answer": "Albert Einstein",
+          "incorrect_answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+          ]
+        },
+        {
+          "question": "Jaką jednostką mierzy się natężenie prądu elektrycznego?",
+          "correct_answer": "Amper",
+          "incorrect_answers": [
+            "Wolt",
+            "Ohm",
+            "Wat"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "easy": [
+        {
+          "question": "Kto jest uważany za twórcę teorii ewolucji?",
+          "correct_answer": "Charles Darwin",
+          "incorrect_answers": [
+            "Albert Einstein",
+            "Nikola Tesla",
+            "Galileo Galilei"
+          ]
+        },
+        {
+          "question": "Co jest głównym składnikiem powietrza?",
+          "correct_answer": "Azot",
+          "incorrect_answers": [
+            "Tlen",
+            "Dwutlenek węgla",
+            "Argon"
+          ]
+        },
+        {
+          "question": "Co jest najmniejszą jednostką materii?",
+          "correct_answer": "Atom",
+          "incorrect_answers": [
+            "Cząstka subatomowa",
+            "Cząsteczka",
+            "Molekuła"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Kiedy została opublikowana teoria względności?",
+          "correct_answer": "1905",
+          "incorrect_answers": [
+            "1910",
+            "1890",
+            "1920"
+          ]
+        },
+        {
+          "question": "Jaki pierwiastek chemiczny ma symbol 'H'?",
+          "correct_answer": "Wodór",
+          "incorrect_answers": [
+            "Hel",
+            "Węgiel",
+            "Azot"
+          ]
+        },
+        {
+          "question": "Jakie jest największe zwierzę na Ziemi?",
+          "correct_answer": "Płetwal błękitny",
+          "incorrect_answers": [
+            "Słoń afrykański",
+            "Rekin wielorybi",
+            "Żyrafa"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Jaki jest wzór chemiczny wody?",
+          "correct_answer": "H2O",
+          "incorrect_answers": [
+            "H2O2",
+            "CO2",
+            "CH4"
+          ]
+        },
+        {
+          "question": "W jakim roku wysłano na Marsa pierwszego robota, Curiosity?",
+          "correct_answer": "2012",
+          "incorrect_answers": [
+            "2010",
+            "2014",
+            "2016"
+          ]
+        },
+        {
+          "question": "Jaka jest przybliżona średnica Ziemi?",
+          "correct_answer": "12 742 km",
+          "incorrect_answers": [
+            "10 000 km",
+            "14 000 km",
+            "15 000 km"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "easy": [
+        {
+          "question": "Gdzie żyje małpożer?",
+          "correct_answer": "Filipiny",
+          "incorrect_answers": [
+            "Tanzania",
+            "Meksyk",
+            "Kenia"
+          ]
+        },
+        {
+          "question": "Gdzie żyje najwięcej Polaków na emigracji?",
+          "correct_answer": "Stany Zjednoczone",
+          "incorrect_answers": [
+            "Niemcy",
+            "Wielka Brytania",
+            "Francja"
+          ]
+        },
+        {
+          "question": "W którym państwie nie obowiązuje monarchia?",
+          "correct_answer": "Indonezja",
+          "incorrect_answers": [
+            "Tajlandia",
+            "Szwecja",
+            "Hiszpania"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Który kraj jest największym producentem kawy na świecie?",
+          "correct_answer": "Brazylia",
+          "incorrect_answers": [
+            "Wietnam",
+            "Kolumbia",
+            "Etiopia"
+          ]
+        },
+        {
+          "question": "Ile jest języków urzędowych w Republice Południowej Afryki?",
+          "correct_answer": "11",
+          "incorrect_answers": [
+            "6",
+            "3",
+            "5"
+          ]
+        },
+        {
+          "question": "Jaka jest tradycyjna amerykańska potrawa na Święto Dziękczynienia?",
+          "correct_answer": "Pieczony indyk",
+          "incorrect_answers": [
+            "Pieczona baranina",
+            "Pieczona jagnięcina",
+            "Stek"
+          ]
+        },
+        {
+          "question": "Która rzeka jest najdłuższa na Ziemi?",
+          "correct_answer": "Nil",
+          "incorrect_answers": [
+            "Jangcy",
+            "Amazonka",
+            "Ganges"
+          ]
+        },
+        {
+          "question": "Jaki język jest językiem urzędowym w Brazylii?",
+          "correct_answer": "Portugalski",
+          "incorrect_answers": [
+            "Brazylijski",
+            "Hiszpański",
+            "Angielski"
+          ]
+        },
+        {
+          "question": "Co należy zostawić przed drzwiami, wchodząc do tureckiego domu?",
+          "correct_answer": "Buty",
+          "incorrect_answers": [
+            "Okrycie wierzchnie",
+            "Parasolkę",
+            "Kapelusz"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "W którym kraju nie powinno się zostawiać napiwków?",
+          "correct_answer": "W Japonii",
+          "incorrect_answers": [
+            "W Turcji",
+            "W Polsce",
+            "W Egipcie"
+          ]
+        },
+        {
+          "question": "Który odkrywca dotarł jako pierwszy drogą morską z Europy do Indii?",
+          "correct_answer": "Vasco da Gama",
+          "incorrect_answers": [
+            "Ferdynand Magellan",
+            "James Cook",
+            "Christopher Columbus"
+          ]
+        },
+        {
+          "question": "Gdzie znajduje się najdłuższy na świecie mur obronny?",
+          "correct_answer": "W Chinach",
+          "incorrect_answers": [
+            "W Japonii",
+            "W Anglii",
+            "W Stanach Zjednoczonych"
+          ]
+        },
+        {
+          "question": "W którym kraju żyje ptak kiwi?",
+          "correct_answer": "W Nowej Zelandii",
+          "incorrect_answers": [
+            "Na Madagaskarze",
+            "Na Filipinach",
+            "W Australii"
+          ]
+        },
+        {
+          "question": "Który z oceanów ma największą średnią głębokość?",
+          "correct_answer": "Ocean Spokojnych",
+          "incorrect_answers": [
+            "Ocean Indyjski",
+            "Ocean Atlantycki",
+            "Ocean Arktyczny"
+          ]
+        },
+        {
+          "question": "Które zwierzę ma największe oczy na świecie?",
+          "correct_answer": "Kałamarnica kolosalna",
+          "incorrect_answers": [
+            "Słoń afrykański",
+            "Płetwal błękitny",
+            "Rekin wielorybi"
+          ]
+        },
+        {
+          "question": "Gdzie żyje najwięcej wilków?",
+          "correct_answer": "W Kanadzie",
+          "incorrect_answers": [
+            "W Rosji",
+            "Na Alasce",
+            "W Polsce"
+          ]
+        },
+        {
+          "question": "Które terytorium nie należy do żadnego państwa?",
+          "correct_answer": "Antarktyda",
+          "incorrect_answers": [
+            "Grenlandia",
+            "Alaska",
+            "Wyspa Wniebowstąpienia"
+          ]
+        },
+        {
+          "question": "Które z tych zwierząt żywi się bambusem i jest symbolem Chin?",
+          "correct_answer": "Panda",
+          "incorrect_answers": [
+            "Tygrys",
+            "Lew",
+            "Koala"
+          ]
+        },
+        {
+          "question": "Jaki język jest językiem urzędowym w Maroko?",
+          "correct_answer": "Arabski",
+          "incorrect_answers": [
+            "Francuski",
+            "Suahili",
+            "Angielski"
+          ]
+        },
+        {
+          "question": "W jakim mieście znajduje się Luwr?",
+          "correct_answer": "W Paryżu",
+          "incorrect_answers": [
+            "W Londynie",
+            "W Nowym Jorku",
+            "W Rzymie"
+          ]
+        },
+        {
+          "question": "Które morze jest najbardziej zasolone?",
+          "correct_answer": "Morze Martwe",
+          "incorrect_answers": [
+            "Morze Czerwone",
+            "Morze Śródziemne",
+            "Morze Północne"
+          ]
+        },
+        {
+          "question": "W jakim miesiącu rozpoczyna się lato w Australii?",
+          "correct_answer": "W grudniu",
+          "incorrect_answers": [
+            "W kwietniu",
+            "W sierpniu",
+            "W lutym"
+          ]
+        }
+      ]
+    }
+  },
+  "questions_boolean": {
+    "1": {
+      "easy": [
+        {
+          "question": "Czy stolica Polski to Kraków?",
+          "correct_answer": "False",
+          "incorrect_answers": [
+            "True"
+          ]
+        },
+        {
+          "question": "Czy Warszawa jest stolicą Polski?",
+          "correct_answer": "True",
+          "incorrect_answers": [
+            "False"
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Czy 100 metrów to rekord świata Usaina Bolta?",
+          "correct_answer": "True",
+          "incorrect_answers": [
+            "False"
+          ]
+        },
+        {
+          "question": "Czy 5 razy Złota Piłka zdobył Ronaldo?",
+          "correct_answer": "False",
+          "incorrect_answers": [
+            "True"
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Czy Michał Anioł był malarzem?",
+          "correct_answer": "True",
+          "incorrect_answers": [
+            "False"
+          ]
+        },
+        {
+          "question": "Czy obraz 'Mona Lisa' znajduje się w Paryżu?",
+          "correct_answer": "True",
+          "incorrect_answers": [
+            "False"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "easy": [],
+      "medium": [],
+      "hard": []
+    },
+    "3": {
+      "easy": [],
+      "medium": [],
+      "hard": []
+    },
+    "4": {
+      "easy": [],
+      "medium": [],
+      "hard": []
+    }
+  },
+  "question_count": {
+    "1": {
+      "easy": {
+        "multiple": 3,
+        "boolean": 2,
+        "any": 5
+      },
+      "medium": {
+        "multiple": 3,
+        "boolean": 2,
+        "any": 5
+      },
+      "hard": {
+        "multiple": 3,
+        "boolean": 2,
+        "any": 5
+      }
+    },
+    "2": {
+      "easy": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      },
+      "medium": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      },
+      "hard": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      }
+    },
+    "3": {
+      "easy": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      },
+      "medium": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      },
+      "hard": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      }
+    },
+    "4": {
+      "easy": {
+        "multiple": 3,
+        "boolean": 0,
+        "any": 3
+      },
+      "medium": {
+        "multiple": 6,
+        "boolean": 0,
+        "any": 6
+      },
+      "hard": {
+        "multiple": 13,
+        "boolean": 0,
+        "any": 13
+      }
+    }
+  },
+  "version": "v1.0.0"
+}
