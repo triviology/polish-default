@@ -13,17 +13,17 @@
       "id": 1
     },
     {
-      "icon": "Icons.science",
+      "icon": "Icons.science_rounded",
       "text": "Nauka",
       "id": 2
     },
     {
-      "icon": "Icons.art_track",
-      "text": "Kultura",
+      "icon": "Icons.menu_book",
+      "text": "Ciekawostki",
       "id": 3
-    }
+    },
   ],
-  "total_questions": "18",
+  "total_questions": "55",
   "total_categories": "3",
   "total_difficulty_levels": "3",
   "language": "pl",
@@ -118,184 +118,176 @@
       ]
     },
     "2": {
-      "easy": [
-        {
-          "question": "Ile wynosi temperatura wrzenia wody w stopniach Celsjusza?",
-          "correct_answer": "100",
-          "incorrect_answers": [
-            "90",
-            "120",
-            "80"
-          ]
-        },
-        {
-          "question": "Jak nazywa się najbliższa gwiazda Ziemi?",
-          "correct_answer": "Słońce",
-          "incorrect_answers": [
-            "Proxima Centauri",
-            "Sirius",
-            "Alpha Centauri"
-          ]
-        },
-        {
-          "question": "Co jest podstawową jednostką masy w układzie SI?",
-          "correct_answer": "Kilogram",
-          "incorrect_answers": [
-            "Gram",
-            "Tona",
-            "Litr"
-          ]
-        }
-      ],
-      "medium": [
-        {
-          "question": "Który pierwiastek chemiczny ma symbol 'O'?",
-          "correct_answer": "Tlen",
-          "incorrect_answers": [
-            "Wodór",
-            "Azot",
-            "Węgiel"
-          ]
-        },
-        {
-          "question": "Jaki gaz stanowi około 21% atmosfery ziemskiej?",
-          "correct_answer": "Tlen",
-          "incorrect_answers": [
-            "Azot",
-            "Wodór",
-            "Dwutlenek węgla"
-          ]
-        },
-        {
-          "question": "Co jest najtwardszym materiałem na Ziemi?",
-          "correct_answer": "Diament",
-          "incorrect_answers": [
-            "Węgiel",
-            "Złoto",
-            "Platyna"
-          ]
-        }
-      ],
-      "hard": [
-        {
-          "question": "Jak nazywa się proces, w którym rośliny produkują tlen?",
-          "correct_answer": "Fotosynteza",
-          "incorrect_answers": [
-            "Oddychanie komórkowe",
-            "Transpiracja",
-            "Fermentacja"
-          ]
-        },
-        {
-          "question": "Kto wynalazł teorię względności?",
-          "correct_answer": "Albert Einstein",
-          "incorrect_answers": [
-            "Isaac Newton",
-            "Galileo Galilei",
-            "Nikola Tesla"
-          ]
-        },
-        {
-          "question": "Jaką jednostką mierzy się natężenie prądu elektrycznego?",
-          "correct_answer": "Amper",
-          "incorrect_answers": [
-            "Wolt",
-            "Ohm",
-            "Wat"
-          ]
-        }
+  "easy": [
+    {
+      "question": "Ile wynosi temperatura wrzenia wody w stopniach Celsjusza?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "90",
+        "120",
+        "80"
       ]
     },
+    {
+      "question": "Jak nazywa się najbliższa gwiazda Ziemi?",
+      "correct_answer": "Słońce",
+      "incorrect_answers": [
+        "Proxima Centauri",
+        "Sirius",
+        "Alpha Centauri"
+      ]
+    },
+    {
+      "question": "Co jest podstawową jednostką masy w układzie SI?",
+      "correct_answer": "Kilogram",
+      "incorrect_answers": [
+        "Gram",
+        "Tona",
+        "Litr"
+      ]
+    },
+    {
+      "question": "Kto jest uważany za twórcę teorii ewolucji?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": [
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ]
+    },
+    {
+      "question": "Co jest głównym składnikiem powietrza?",
+      "correct_answer": "Azot",
+      "incorrect_answers": [
+        "Tlen",
+        "Dwutlenek węgla",
+        "Argon"
+      ]
+    },
+    {
+      "question": "Co jest najmniejszą jednostką materii?",
+      "correct_answer": "Atom",
+      "incorrect_answers": [
+        "Cząstka subatomowa",
+        "Cząsteczka",
+        "Molekuła"
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "question": "Który pierwiastek chemiczny ma symbol 'O'?",
+      "correct_answer": "Tlen",
+      "incorrect_answers": [
+        "Wodór",
+        "Azot",
+        "Węgiel"
+      ]
+    },
+    {
+      "question": "Jaki gaz stanowi około 21% atmosfery ziemskiej?",
+      "correct_answer": "Tlen",
+      "incorrect_answers": [
+        "Azot",
+        "Wodór",
+        "Dwutlenek węgla"
+      ]
+    },
+    {
+      "question": "Co jest najtwardszym materiałem na Ziemi?",
+      "correct_answer": "Diament",
+      "incorrect_answers": [
+        "Węgiel",
+        "Złoto",
+        "Platyna"
+      ]
+    },
+    {
+      "question": "Kiedy została opublikowana teoria względności?",
+      "correct_answer": "1905",
+      "incorrect_answers": [
+        "1910",
+        "1890",
+        "1920"
+      ]
+    },
+    {
+      "question": "Jaki pierwiastek chemiczny ma symbol 'H'?",
+      "correct_answer": "Wodór",
+      "incorrect_answers": [
+        "Hel",
+        "Węgiel",
+        "Azot"
+      ]
+    },
+    {
+      "question": "Jakie jest największe zwierzę na Ziemi?",
+      "correct_answer": "Płetwal błękitny",
+      "incorrect_answers": [
+        "Słoń afrykański",
+        "Rekin wielorybi",
+        "Żyrafa"
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "question": "Jak nazywa się proces, w którym rośliny produkują tlen?",
+      "correct_answer": "Fotosynteza",
+      "incorrect_answers": [
+        "Oddychanie komórkowe",
+        "Transpiracja",
+        "Fermentacja"
+      ]
+    },
+    {
+      "question": "Kto wynalazł teorię względności?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "question": "Jaką jednostką mierzy się natężenie prądu elektrycznego?",
+      "correct_answer": "Amper",
+      "incorrect_answers": [
+        "Wolt",
+        "Ohm",
+        "Wat"
+      ]
+    },
+    {
+      "question": "Jaki jest wzór chemiczny wody?",
+      "correct_answer": "H2O",
+      "incorrect_answers": [
+        "H2O2",
+        "CO2",
+        "CH4"
+      ]
+    },
+    {
+      "question": "W jakim roku wysłano na Marsa pierwszego robota, Curiosity?",
+      "correct_answer": "2012",
+      "incorrect_answers": [
+        "2010",
+        "2014",
+        "2016"
+      ]
+    },
+    {
+      "question": "Jaka jest przybliżona średnica Ziemi?",
+      "correct_answer": "12 742 km",
+      "incorrect_answers": [
+        "10 000 km",
+        "14 000 km",
+        "15 000 km"
+      ]
+    }
+  ]
+},
     "3": {
-      "easy": [
-        {
-          "question": "Kto jest uważany za twórcę teorii ewolucji?",
-          "correct_answer": "Charles Darwin",
-          "incorrect_answers": [
-            "Albert Einstein",
-            "Nikola Tesla",
-            "Galileo Galilei"
-          ]
-        },
-        {
-          "question": "Co jest głównym składnikiem powietrza?",
-          "correct_answer": "Azot",
-          "incorrect_answers": [
-            "Tlen",
-            "Dwutlenek węgla",
-            "Argon"
-          ]
-        },
-        {
-          "question": "Co jest najmniejszą jednostką materii?",
-          "correct_answer": "Atom",
-          "incorrect_answers": [
-            "Cząstka subatomowa",
-            "Cząsteczka",
-            "Molekuła"
-          ]
-        }
-      ],
-      "medium": [
-        {
-          "question": "Kiedy została opublikowana teoria względności?",
-          "correct_answer": "1905",
-          "incorrect_answers": [
-            "1910",
-            "1890",
-            "1920"
-          ]
-        },
-        {
-          "question": "Jaki pierwiastek chemiczny ma symbol 'H'?",
-          "correct_answer": "Wodór",
-          "incorrect_answers": [
-            "Hel",
-            "Węgiel",
-            "Azot"
-          ]
-        },
-        {
-          "question": "Jakie jest największe zwierzę na Ziemi?",
-          "correct_answer": "Płetwal błękitny",
-          "incorrect_answers": [
-            "Słoń afrykański",
-            "Rekin wielorybi",
-            "Żyrafa"
-          ]
-        }
-      ],
-      "hard": [
-        {
-          "question": "Jaki jest wzór chemiczny wody?",
-          "correct_answer": "H2O",
-          "incorrect_answers": [
-            "H2O2",
-            "CO2",
-            "CH4"
-          ]
-        },
-        {
-          "question": "W jakim roku wysłano na Marsa pierwszego robota, Curiosity?",
-          "correct_answer": "2012",
-          "incorrect_answers": [
-            "2010",
-            "2014",
-            "2016"
-          ]
-        },
-        {
-          "question": "Jaka jest przybliżona średnica Ziemi?",
-          "correct_answer": "12 742 km",
-          "incorrect_answers": [
-            "10 000 km",
-            "14 000 km",
-            "15 000 km"
-          ]
-        }
-      ]
-    },
-    "4": {
       "easy": [
         {
           "question": "Gdzie żyje małpożer?",
@@ -563,11 +555,6 @@
       "medium": [],
       "hard": []
     },
-    "4": {
-      "easy": [],
-      "medium": [],
-      "hard": []
-    }
   },
   "question_count": {
     "1": {
@@ -589,39 +576,22 @@
     },
     "2": {
       "easy": {
-        "multiple": 3,
+        "multiple": 6,
         "boolean": 0,
-        "any": 3
+        "any": 6
       },
       "medium": {
-        "multiple": 3,
+        "multiple": 6,
         "boolean": 0,
-        "any": 3
+        "any": 6
       },
       "hard": {
-        "multiple": 3,
+        "multiple": 6,
         "boolean": 0,
-        "any": 3
+        "any": 6
       }
     },
     "3": {
-      "easy": {
-        "multiple": 3,
-        "boolean": 0,
-        "any": 3
-      },
-      "medium": {
-        "multiple": 3,
-        "boolean": 0,
-        "any": 3
-      },
-      "hard": {
-        "multiple": 3,
-        "boolean": 0,
-        "any": 3
-      }
-    },
-    "4": {
       "easy": {
         "multiple": 3,
         "boolean": 0,
